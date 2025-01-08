@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/screens/home_screen.dart';
+import 'package:clima/screens/home_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const clima());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class clima extends StatelessWidget {
+  const clima({super.key});
 
   @override
   Widget build(BuildContext context) {

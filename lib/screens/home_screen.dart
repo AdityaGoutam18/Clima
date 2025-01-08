@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/models/weather_model.dart';
-import 'package:myapp/services/weather_services.dart';
-import 'package:myapp/widgets/weather_card.dart';
+import 'package:clima/models/weather_model.dart';
+import 'package:clima/services/weather_services.dart';
+import 'package:clima/widgets/weather_card.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:intl/intl.dart';
 import 'package:lottie/lottie.dart';
-import 'package:myapp/models/weather_model.dart';
+import 'package:clima/models/weather_model.dart';
 
 class WeatherCard extends StatelessWidget {
   final Weather weather;
